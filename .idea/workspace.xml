@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b85138-9ad8-4659-8847-886ad2eae8a9" name="Changes" comment="Beginning">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TransportDescription.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TransportInfo.java" afterDir="false" />
+    <list default="true" id="60b85138-9ad8-4659-8847-886ad2eae8a9" name="Changes" comment="Getting closer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServiceStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServiceStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TransportInfo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681039083044</updated>
       <workItem from="1681039084242" duration="713000" />
-      <workItem from="1681039855326" duration="2017000" />
+      <workItem from="1681039855326" duration="2869000" />
     </task>
     <task id="LOCAL-00001" summary="Beginning">
       <created>1681039896055</created>
@@ -71,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681039896055</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Getting closer">
+      <created>1681041920278</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681041920278</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Beginning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Beginning" />
+    <MESSAGE value="Getting closer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getting closer" />
   </component>
 </project>
