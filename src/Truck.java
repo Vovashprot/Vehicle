@@ -3,15 +3,12 @@ public class Truck extends TransportDescription{
         super(modelName, wheelsCount);
     }
 
-    public void updateTyre() {
-        System.out.println("Меняем покрышку");
-    }
-
-    public void checkEngine() {
+    public void service() {
+        System.out.println("Обслуживаем " + this.getModelName());
+        for (int i = 1; i <= this.getWheelsCount();i++) {
+            System.out.println("Меняем покрышку");
+        }
         System.out.println("Проверяем двигатель");
-    }
-
-    public void checkTrailer() {
         System.out.println("Проверяем прицеп");
     }
 }

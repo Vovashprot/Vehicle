@@ -4,7 +4,10 @@ public class Bicycle extends TransportDescription {
         super(modelName, wheelsCount);
     }
 
-    public void updateTyre() {
-        System.out.println("Меняем покрышку");
+    public void service() {
+        System.out.println("Обслуживаем " + this.getModelName());
+        for (int i = 1; i <= this.getWheelsCount();i++) {
+            System.out.println("Меняем покрышку");
+        }
     }
 }

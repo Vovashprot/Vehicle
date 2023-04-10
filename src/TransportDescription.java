@@ -1,4 +1,6 @@
-public abstract class TransportDescription {
+import java.util.NavigableMap;
+
+public abstract class TransportDescription implements Maintainable {
     private String modelName;
     private int wheelsCount;
 
